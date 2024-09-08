@@ -1,0 +1,1 @@
+Welcome to the **Scientific Computing** repository! This repository contains code, data, and documentation for various projects related to scientific computing, numerical analysis, data visualization, and more.
